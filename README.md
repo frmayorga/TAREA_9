@@ -14,7 +14,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 
 # MARCO TEORICO
-
+![](https://github.com/frmayorga/TAREA_9/blob/main/deber%209.jpg)
 
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
