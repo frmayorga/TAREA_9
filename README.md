@@ -105,7 +105,7 @@ Para encontrar la potencia tenemos que la potencia maxima es 2.75 W, utilizando 
 
 
 
-#### 43. . En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 ohm.
+#### 43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
 
 
 
