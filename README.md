@@ -70,6 +70,18 @@ Asi tenemos el angulo negativo que nos indica que el circuito es capacitivo.
 ![image](https://user-images.githubusercontent.com/93398718/155430757-dfcdf767-1d54-4ca6-84f0-251e51e6eaa5.png)  
 
 
+
+**23. 23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.**
+
+![image](https://user-images.githubusercontent.com/93361435/155565338-79501128-3b03-496c-a792-9dc49eb4cb4d.png)
+
+Debido a que nuestra configuracion es paralelo debemos usar otras formulas, tambien porque observamos que el circuito tanque tiene un inductor con una resistencia al devanado por ello usamos las formulas propuestas a continuacion: 
+
+![image](https://user-images.githubusercontent.com/93361435/155564910-39840f8a-fd86-4991-a535-50962b11ee9a.png)
+
+Asi obtenemos que la frecuencia es de 104 kHz y una impedancia de 54.45 mega-ohmios.
+
+
 #### 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
 ![image](https://user-images.githubusercontent.com/93398718/155430830-b9d5e4e0-2c53-4a70-ad20-a05c3f2eeab3.png)  
 
