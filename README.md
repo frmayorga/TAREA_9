@@ -52,6 +52,20 @@ En un circuito resonante como sabemos XC = XL, la impedancia va a ser netamente 
 ![image](https://user-images.githubusercontent.com/93398718/155430679-157325bd-08c0-4e12-8fa0-75f0e9f6816e.png)  
 
 
+**17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
+
+Primero calculamos la reactancia capacitiva e inductiva con el uso de las formulas respectivas despues calculamos la impedancia con el uso de la formula de esta en paralelo, asi tenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/155551964-51029723-5029-48a9-b043-b121dbfb96e0.png)
+
+Despues de esto debemos convertir los respectivos fasores a su forma rectangular, luego debemos nuevamente convertirlo a su forma polar para obtener el angulo y a partir de este ver si es capacitivo o inductivo: 
+
+![image](https://user-images.githubusercontent.com/93361435/155553091-b10ea740-4a40-4e58-aeb5-6addeb2ea0f6.png)
+
+Asi tenemos el angulo negativo que nos indica que el circuito es capacitivo.
+
+
+
 #### 19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar
 ![image](https://user-images.githubusercontent.com/93398718/155430757-dfcdf767-1d54-4ca6-84f0-251e51e6eaa5.png)  
 
