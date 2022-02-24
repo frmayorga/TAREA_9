@@ -25,6 +25,17 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 #### 1. Cierto circuito RLC en serie tiene los siguientes valores: R  10 Æ, C  0.047 mF, y L  5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz. 
 
 
+
+**5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar. **
+
+![image](https://user-images.githubusercontent.com/93361435/155536710-efb2e1e8-f6e8-48f7-a438-0bf8fcac2450.png)
+
+Para la resolucion calculamos primero la reactancia total, tomando el valor absoluto de la resta de la reactancia inductiva y la reactancia capacitiva, notamos que el resultado es positivo sin valor absoluto por lo que la reactantacia total es predominante inductivo, por lo tanto el angulo de la impedancia es positivo, ademas como el voltaje del capacitor e inductor tienen un angulo de desfase de 180 por lo tanto la reactancia capacitiva tiene -90 grados y la reactancia inductiva tiene 90 grados, asi tenemos los resultados:
+
+![image](https://user-images.githubusercontent.com/93361435/155536588-5d0ef38c-02c6-4b48-b23e-63a45ac87cf4.png)
+
+
+
 #### 7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
 ![image](https://user-images.githubusercontent.com/93398718/155430588-34d300d0-0a1c-4ab6-9cc0-d7c1dcebb89c.png)  
 
