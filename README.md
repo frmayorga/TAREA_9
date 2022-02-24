@@ -126,6 +126,15 @@ Y para los circuitos pasabajas con inductores tenemos:
 
 
 
+**9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
+
+![image](https://user-images.githubusercontent.com/93361435/155606605-cad2e60a-5298-436a-bd97-25ecc2ea84b5.png)
+
+Del despeje de la formula tenemos:
+
+![image](https://user-images.githubusercontent.com/93361435/155606484-c16d34e8-166e-4236-8e8d-2689ae1bcc03.png)
+
+
 # VIDEO
 
 
