@@ -108,6 +108,24 @@ Para encontrar la potencia tenemos que la potencia maxima es 2.75 W, utilizando 
 #### 43. . En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 ohm.
 
 
+
+# CAPITULO 18:
+
+
+**3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent = 10 V.**
+
+![image](https://user-images.githubusercontent.com/93361435/155602744-9f7c593b-74b5-423f-bdc4-e4cbad2cc113.png)
+
+Utilizando las formulas para circuitos de filtros pasabajas con capacitores tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/155602845-e93f94b9-6c74-43df-8dc1-438a978fcb99.png)
+
+Y para los circuitos pasabajas con inductores tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/155602907-5241ce45-36d8-48b5-bf89-b728f48ae879.png)
+
+
+
 # VIDEO
 
 
