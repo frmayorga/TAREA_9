@@ -26,7 +26,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 
 
-**5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar. **
+**5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.**
 
 ![image](https://user-images.githubusercontent.com/93361435/155536710-efb2e1e8-f6e8-48f7-a438-0bf8fcac2450.png)
 
