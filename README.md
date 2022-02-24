@@ -16,6 +16,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_9/blob/main/deber%209.jpg)
 
+![PARTE 1 RLC](https://user-images.githubusercontent.com/93361435/155446871-e02bdad8-5456-4658-9f5a-bdd391592910.jpg)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # CAPITULO 17:
