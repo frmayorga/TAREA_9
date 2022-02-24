@@ -71,7 +71,7 @@ Asi tenemos el angulo negativo que nos indica que el circuito es capacitivo.
 
 
 
-**23. 23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.**
+**23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.**
 
 ![image](https://user-images.githubusercontent.com/93361435/155565338-79501128-3b03-496c-a792-9dc49eb4cb4d.png)
 
@@ -94,6 +94,14 @@ Asi obtenemos que la frecuencia es de 104 kHz y una impedancia de 54.45 mega-ohm
 
 #### 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 ![image](https://user-images.githubusercontent.com/93398718/155431052-441126b9-644c-42b8-8414-410aa1902915.png)
+
+
+
+**41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja?**
+
+Para encontrar la potencia tenemos que la potencia maxima es 2.75 W, utilizando la formula tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/155576071-906c2b96-c84e-4d60-b19e-292889961e5e.png)
 
 
 
