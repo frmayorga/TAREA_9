@@ -135,6 +135,21 @@ Del despeje de la formula tenemos:
 ![image](https://user-images.githubusercontent.com/93361435/155606484-c16d34e8-166e-4236-8e8d-2689ae1bcc03.png)
 
 
+
+**15. 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41.**
+
+![image](https://user-images.githubusercontent.com/93361435/155616365-a7caa344-2097-4491-a56c-a0988cae7e8c.png)
+
+Debemos en primer lugar calcular la frecuencia critica ademas sabemos que va a ir disminuyendo a 20 dB en todos los casos, asi tenemos: 
+
+![image](https://user-images.githubusercontent.com/93361435/155616121-4c555dc1-637d-440e-8344-003249ffe3c8.png)
+
+Las graficas:
+
+![image](https://user-images.githubusercontent.com/93361435/155616296-443cd144-4b76-476d-b290-4dff3741f293.png)
+
+
+
 # VIDEO
 
 
