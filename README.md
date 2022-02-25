@@ -23,6 +23,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 # CAPITULO 17:
 
 #### 1. Cierto circuito RLC en serie tiene los siguientes valores: R  10 Æ, C  0.047 mF, y L  5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz. 
+![image](https://user-images.githubusercontent.com/93398718/155669430-d17d32a7-b27d-492d-b90c-28e9ae839280.png)
 
 
 
@@ -38,6 +39,7 @@ Para la resolucion calculamos primero la reactancia total, tomando el valor abso
 
 #### 7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f = 25 kHz):
 ![image](https://user-images.githubusercontent.com/93398718/155430588-34d300d0-0a1c-4ab6-9cc0-d7c1dcebb89c.png)  
+![image](https://user-images.githubusercontent.com/93398718/155669502-28bdc1e5-0f1b-4c6e-90d7-f82a038c2357.png)
 
 
 **11.  Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El
@@ -51,6 +53,7 @@ En un circuito resonante como sabemos XC = XL, la impedancia va a ser netamente 
 #### 13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
 ![image](https://user-images.githubusercontent.com/93398718/155430679-157325bd-08c0-4e12-8fa0-75f0e9f6816e.png)  
 
+![image](https://user-images.githubusercontent.com/93398718/155669615-1f68e22e-1759-4b7e-ac78-498a409c8355.png)
 
 **17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
 
@@ -69,6 +72,7 @@ Asi tenemos el angulo negativo que nos indica que el circuito es capacitivo.
 #### 19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar
 ![image](https://user-images.githubusercontent.com/93398718/155430757-dfcdf767-1d54-4ca6-84f0-251e51e6eaa5.png)  
 
+![image](https://user-images.githubusercontent.com/93398718/155669660-c24a5bc9-f868-44d6-85cf-a85b26a52ccb.png)
 
 
 **23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.**
@@ -85,6 +89,7 @@ Asi obtenemos que la frecuencia es de 104 kHz y una impedancia de 54.45 mega-ohm
 #### 25. Determine Preal, Pr y Pa en el circuito de la figura 17-64 en condición de resonancia.
 ![image](https://user-images.githubusercontent.com/93398718/155430830-b9d5e4e0-2c53-4a70-ad20-a05c3f2eeab3.png)  
 
+![image](https://user-images.githubusercontent.com/93398718/155669725-e04805e8-84c4-4024-b79f-e649efa49b5c.png)
 
 **29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.**
 
