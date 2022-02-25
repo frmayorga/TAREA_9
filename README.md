@@ -86,10 +86,31 @@ Asi obtenemos que la frecuencia es de 104 kHz y una impedancia de 54.45 mega-ohm
 ![image](https://user-images.githubusercontent.com/93398718/155430830-b9d5e4e0-2c53-4a70-ad20-a05c3f2eeab3.png)  
 
 
+**29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.**
+
+![image](https://user-images.githubusercontent.com/93361435/155641830-5c086f41-d978-40db-9e8f-77949babb566.png)
+
+Calculamos las impedancias del circuito, tal como sigue:
+
+![image](https://user-images.githubusercontent.com/93361435/155641685-e805b85f-8e37-4e67-91b1-48134d99d0ef.png)
+
+![image](https://user-images.githubusercontent.com/93361435/155641750-e9e506f2-3c66-44dd-8333-3ce131667442.png)
+
+![image](https://user-images.githubusercontent.com/93361435/155641819-c60be049-7da5-4ca0-8acc-b949b026f0ed.png)
+
+
 
 #### 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 ![image](https://user-images.githubusercontent.com/93398718/155430935-0dd3251c-194d-47cd-9291-affb5b2e82f4.png)  
 
+
+**35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 ohmios conectado de a a b en la figura 17-69?**
+
+![image](https://user-images.githubusercontent.com/93361435/155641519-0a1a3d5e-e563-4f3f-a59e-2a0991c16691.png)
+
+Realizamos el siguiente proceso:
+
+![image](https://user-images.githubusercontent.com/93361435/155641467-f1aff818-2648-42c6-8638-a0d44cb873d9.png)
 
 
 #### 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
