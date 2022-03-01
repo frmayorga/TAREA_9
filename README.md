@@ -134,6 +134,7 @@ Para encontrar la potencia tenemos que la potencia maxima es 2.75 W, utilizando 
 
 #### 43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál es el ancho de banda a la misma fr?
 
+![image](https://user-images.githubusercontent.com/93398718/156268464-db2f5da8-7f22-4dae-8eb0-2681fdcd1771.png)
 
 
 # CAPITULO 18:
