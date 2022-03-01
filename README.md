@@ -106,7 +106,8 @@ Calculamos las impedancias del circuito, tal como sigue:
 
 
 #### 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
-![image](https://user-images.githubusercontent.com/93398718/155430935-0dd3251c-194d-47cd-9291-affb5b2e82f4.png)  
+![image](https://user-images.githubusercontent.com/93398718/155430935-0dd3251c-194d-47cd-9291-affb5b2e82f4.png)   
+![image](https://user-images.githubusercontent.com/93398718/156109173-9d8888f6-a850-41c0-858b-27abc7f3f5bc.png)  
 
 
 **35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 ohmios conectado de a a b en la figura 17-69?**
