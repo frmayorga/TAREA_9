@@ -9,13 +9,12 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
-- 
+- Analizar ,Interpretar y Comprender la informacion de los capítulos 17 y 18 de lirbo de circuitos, mediante su estudio, para resolver los ejercicios propuestoe en los mismos. 
 
 ## OBJETIVOS ESPECIFICOS
 
--
--
-
+- Analizar la informacion del fenomeno de la resonancia que esta parence en el capítulo de Circuitos RLC y resonancia, para comprender mejor su estudio y sus aplicaciones
+- Analizar la informacion 
 
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_9/blob/main/deber%209.jpg)
@@ -262,11 +261,10 @@ Las graficas:
 
 # VIDEO
 
-https://youtu.be/lSlSeQNM3Ls
 
 # CONCLUSIONES
 
-- gracias al estudio de los temas que se encuentran en estos capitulos obtubimos la capacidad de analizar circuitos RLC en en serie y en paralelo ademas de un fenomeno tan interesante como lo es la resonancia, de igual manera comprendemos de mejor manera las aplicaciones de este tipo de circuitos en un determinado conjunto de elementos que forman parte de ciertos dispositovos electronicos.
+- gracias al estudio de los temas que se encuentran en estos capitulos obtubimos la capacidad de analizar circuitos RLC en serie y en paralelo ademas de un fenomeno tan interesante como lo es la resonancia, de igual manera comprendemos de mejor manera las aplicaciones de este tipo de circuitos en un determinado conjunto de elementos que forman parte de ciertos dispositovos electronicos.
 - 
 
 # BIBLIOGRAFIA
