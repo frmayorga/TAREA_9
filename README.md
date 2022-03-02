@@ -14,7 +14,7 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 ## OBJETIVOS ESPECIFICOS
 
 - Analizar la informacion del fenomeno de la resonancia que esta parence en el capítulo de Circuitos RLC y resonancia, para comprender mejor su estudio y sus aplicaciones
-- Analizar la informacion 
+- Analizar la informacion del capítulo de Filtros pasivos que perimute entender como es su funcionamiento, sus tipos y sus aplicaciones en la resolucion de los ejercicios.
 
 # MARCO TEORICO
 ![](https://github.com/frmayorga/TAREA_9/blob/main/deber%209.jpg)
