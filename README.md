@@ -22,6 +22,8 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ![PARTE 1 RLC](https://user-images.githubusercontent.com/93361435/155446871-e02bdad8-5456-4658-9f5a-bdd391592910.jpg)
 
+![resumen cap 18](https://user-images.githubusercontent.com/93561706/156467059-ebf24b33-ec1e-41b4-a977-3d6f359e1c3b.png)
+
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 # CAPITULO 17:
@@ -264,7 +266,7 @@ Las graficas:
 # CONCLUSIONES
 
 - gracias al estudio de los temas que se encuentran en estos capitulos obtubimos la capacidad de analizar circuitos RLC en en serie y en paralelo ademas de un fenomeno tan interesante como lo es la resonancia, de igual manera comprendemos de mejor manera las aplicaciones de este tipo de circuitos en un determinado conjunto de elementos que forman parte de ciertos dispositovos electronicos.
-- Las aplicaciones de los filtros electrónicos son numerosas y muy variadas, como pueden ser: sistemas de telecomunicaciones, instrumentos de medición, sistemas de audio y video, transmisión de datos, sistemas de control electrónico,etc. como podemos notar en la actualidad los filtros son usados en un sin fin de areas lo cual demuestra su importancia. 
+- 
 
 # BIBLIOGRAFIA
 
