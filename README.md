@@ -180,6 +180,7 @@ Para encontrar la potencia tenemos que la potencia maxima es 2.75 W, utilizando 
 
 # CAPITULO 18:
 
+#### 1. En cierto filtro pasabajas, XC =500 Ω  y R = 2.2 kΩ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
 
 **3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent = 10 V.**
 
@@ -201,7 +202,7 @@ Y para los circuitos pasabajas con inductores tenemos:
 
 ![image](https://user-images.githubusercontent.com/93398718/156270834-217c750f-1a23-4416-af42-96aa1ae084cc.png)
 
-
+#### 7. Trace una curva de Bode para cada una de las partes del problema 5
 
 **9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
 
@@ -215,6 +216,9 @@ Del despeje de la formula tenemos:
 #### 11. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
 ![image](https://user-images.githubusercontent.com/93398718/156272245-0d39da1c-0cc6-4de6-955e-0b3fdcfde968.png)
 
+#### 13. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent=10 V
+
+![image](https://user-images.githubusercontent.com/93561706/156422712-c5f11419-8c6b-4570-8d0b-4bf4783bfb42.png)
 
 
 **15. 15. Trace la curva de Bode para cada filtro mostrado en la figura 18-41.**
@@ -235,11 +239,17 @@ Las graficas:
 
 ![image](https://user-images.githubusercontent.com/93398718/156420179-d60d18d5-064e-4c4c-8516-f336128a7928.png)
 
+#### 19. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0
+
+![image](https://user-images.githubusercontent.com/93561706/156422780-b1417aff-8566-4591-9a3f-4bdf35c93e6f.png)
 
 
 #### 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB  500 Hz; Q  40; e IC(máx)  20 mA, VC(máx)  2.5 V.
 ![image](https://user-images.githubusercontent.com/93398718/156269234-29f918d7-9520-443b-b255-816bca5951c5.png)  
  
+#### 25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
+
+![image](https://user-images.githubusercontent.com/93561706/156422822-5bd5b197-39e2-4e81-bbeb-8bde428f5c70.png)
 
 
 
