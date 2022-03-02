@@ -154,6 +154,14 @@ Y para los circuitos pasabajas con inductores tenemos:
 
 
 
+#### 5.Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
+![image](https://user-images.githubusercontent.com/93398718/156268970-1f55b52e-0419-4d5a-8897-cd1fdfa923f3.png)
+
+
+![image](https://user-images.githubusercontent.com/93398718/156270834-217c750f-1a23-4416-af42-96aa1ae084cc.png)
+
+
+
 **9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
 
 ![image](https://user-images.githubusercontent.com/93361435/155606605-cad2e60a-5298-436a-bd97-25ecc2ea84b5.png)
@@ -161,6 +169,10 @@ Y para los circuitos pasabajas con inductores tenemos:
 Del despeje de la formula tenemos:
 
 ![image](https://user-images.githubusercontent.com/93361435/155606484-c16d34e8-166e-4236-8e8d-2689ae1bcc03.png)
+
+
+#### 11. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
+
 
 
 
@@ -175,6 +187,17 @@ Debemos en primer lugar calcular la frecuencia critica ademas sabemos que va a i
 Las graficas:
 
 ![image](https://user-images.githubusercontent.com/93361435/155616296-443cd144-4b76-476d-b290-4dff3741f293.png)
+
+
+#### 17. Determine la frecuencia central para cada filtro de la figura 18-43.
+![image](https://user-images.githubusercontent.com/93398718/156269091-f81018f9-42ac-4546-8f41-fe516341c34b.png)  
+
+
+
+
+#### 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB  500 Hz; Q  40; e IC(máx)  20 mA, VC(máx)  2.5 V.
+![image](https://user-images.githubusercontent.com/93398718/156269234-29f918d7-9520-443b-b255-816bca5951c5.png)  
+ 
 
 
 
