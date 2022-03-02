@@ -64,7 +64,10 @@ En un circuito resonante como sabemos XC = XL, la impedancia va a ser netamente 
 
 ![image](https://user-images.githubusercontent.com/93398718/155669615-1f68e22e-1759-4b7e-ac78-498a409c8355.png)
 
-#### 
+#### 15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador: (a) 500 kHz (b) 1000 kHz (c) 1500 kHz (d) 2000 kHz
+
+![image](https://user-images.githubusercontent.com/93561706/156421906-bdccb344-380f-494c-940d-5080d5e75b77.png)
+
 
 **17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
 
