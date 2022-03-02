@@ -190,8 +190,9 @@ Las graficas:
 
 
 #### 17. Determine la frecuencia central para cada filtro de la figura 18-43.
-![image](https://user-images.githubusercontent.com/93398718/156269091-f81018f9-42ac-4546-8f41-fe516341c34b.png)  
+![image](https://user-images.githubusercontent.com/93398718/156269091-f81018f9-42ac-4546-8f41-fe516341c34b.png)     
 
+![image](https://user-images.githubusercontent.com/93398718/156420179-d60d18d5-064e-4c4c-8516-f336128a7928.png)
 
 
 
