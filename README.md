@@ -263,6 +263,8 @@ Las graficas:
 
 # CONCLUSIONES
 
+- gracias al estudio de los temas que se encuentran en estos capitulos obtubimos la capacidad de analizar circuitos RLC en en serie y en paralelo ademas de un fenomeno tan interesante como lo es la resonancia, de igual manera comprendemos de mejor manera las aplicaciones de este tipo de circuitos en un determinado conjunto de elementos que forman parte de ciertos dispositovos electronicos.
+- 
 
 # BIBLIOGRAFIA
 
