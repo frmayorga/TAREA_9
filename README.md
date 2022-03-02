@@ -172,7 +172,7 @@ Del despeje de la formula tenemos:
 
 
 #### 11. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
-
+![image](https://user-images.githubusercontent.com/93398718/156272245-0d39da1c-0cc6-4de6-955e-0b3fdcfde968.png)
 
 
 
