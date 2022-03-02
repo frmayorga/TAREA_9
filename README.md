@@ -9,8 +9,12 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 
 ## OBJETIVO GENERAL 
 
+- 
 
 ## OBJETIVOS ESPECIFICOS
+
+-
+-
 
 
 # MARCO TEORICO
