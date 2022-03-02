@@ -253,6 +253,8 @@ Las graficas:
 #### 23. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB  500 Hz; Q  40; e IC(máx)  20 mA, VC(máx)  2.5 V.
 ![image](https://user-images.githubusercontent.com/93398718/156269234-29f918d7-9520-443b-b255-816bca5951c5.png)  
  
+ ![image](https://user-images.githubusercontent.com/93398718/156461429-83d335a9-66f5-4c2a-8cc9-23994b75d501.png)
+
 #### 25. Para cada filtro de la figura 18-47, determine la frecuencia central de la banda de rechazo.
 
 ![image](https://user-images.githubusercontent.com/93561706/156422822-5bd5b197-39e2-4e81-bbeb-8bde428f5c70.png)
