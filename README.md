@@ -25,7 +25,11 @@ Fernanda Mayorga, Nicolas Reyes, Stalyn Castellanos
 #### 1. Cierto circuito RLC en serie tiene los siguientes valores: R  10 Æ, C  0.047 mF, y L  5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz. 
 ![image](https://user-images.githubusercontent.com/93398718/155669430-d17d32a7-b27d-492d-b90c-28e9ae839280.png)
 
+#### 3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
 
+![image](https://user-images.githubusercontent.com/93561706/156421680-748fbff0-8c8d-410a-930b-5259b672efdf.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421736-483a7d3e-6fb2-4ba7-bc47-84cc56c2bb57.png)
 
 **5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.**
 
@@ -41,6 +45,11 @@ Para la resolucion calculamos primero la reactancia total, tomando el valor abso
 ![image](https://user-images.githubusercontent.com/93398718/155430588-34d300d0-0a1c-4ab6-9cc0-d7c1dcebb89c.png)  
 ![image](https://user-images.githubusercontent.com/93398718/155669502-28bdc1e5-0f1b-4c6e-90d7-f82a038c2357.png)
 
+#### 9. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
+
+![image](https://user-images.githubusercontent.com/93561706/156421515-d8975d2d-c5f9-4908-a8d2-9dd3ece19320.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421607-ea0e67ab-ac15-4fc4-972a-fc7b847635f1.png)
 
 **11.  Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El
 voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?**
@@ -54,6 +63,8 @@ En un circuito resonante como sabemos XC = XL, la impedancia va a ser netamente 
 ![image](https://user-images.githubusercontent.com/93398718/155430679-157325bd-08c0-4e12-8fa0-75f0e9f6816e.png)  
 
 ![image](https://user-images.githubusercontent.com/93398718/155669615-1f68e22e-1759-4b7e-ac78-498a409c8355.png)
+
+#### 
 
 **17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta.**
 
@@ -74,6 +85,11 @@ Asi tenemos el angulo negativo que nos indica que el circuito es capacitivo.
 
 ![image](https://user-images.githubusercontent.com/93398718/155669660-c24a5bc9-f868-44d6-85cf-a85b26a52ccb.png)
 
+#### 21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19.
+
+![image](https://user-images.githubusercontent.com/93561706/156421388-f89243a1-7c0d-42ef-96df-1f01b3e291d4.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421443-837887e9-5d4b-44a2-a60e-11532c516234.png)
 
 **23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.**
 
@@ -90,6 +106,17 @@ Asi obtenemos que la frecuencia es de 104 kHz y una impedancia de 54.45 mega-ohm
 ![image](https://user-images.githubusercontent.com/93398718/155430830-b9d5e4e0-2c53-4a70-ad20-a05c3f2eeab3.png)  
 
 ![image](https://user-images.githubusercontent.com/93398718/155669725-e04805e8-84c4-4024-b79f-e649efa49b5c.png)
+
+#### 27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente total.
+
+![image](https://user-images.githubusercontent.com/93561706/156421190-73fff6a6-9498-4a6f-855d-aaa08a85d70c.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421215-063f83ec-3256-48bb-9f09-18119d988742.png)
+![image](https://user-images.githubusercontent.com/93561706/156421254-873461d6-2e0b-4088-afa0-855dffb6cf74.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421271-eb937c9e-e905-4795-8e8c-7080a9845999.png)
+![image](https://user-images.githubusercontent.com/93561706/156421295-d6f4156c-76f9-41ca-9fc2-8bd0834d6d18.png)
+
 
 **29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.**
 
@@ -109,6 +136,14 @@ Calculamos las impedancias del circuito, tal como sigue:
 ![image](https://user-images.githubusercontent.com/93398718/155430935-0dd3251c-194d-47cd-9291-affb5b2e82f4.png)   
 ![image](https://user-images.githubusercontent.com/93398718/156109173-9d8888f6-a850-41c0-858b-27abc7f3f5bc.png)  
 
+#### 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje entre las terminales de cada componente.
+
+![image](https://user-images.githubusercontent.com/93561706/156421005-a8c4ddee-13ad-43cc-b494-8a81eb85a83a.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421088-e928c696-1ec8-49a9-bea6-a36638833131.png)
+
+![image](https://user-images.githubusercontent.com/93561706/156421121-5a20b49e-c561-4db5-8b32-7c9e8befcb23.png)
+
 
 **35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 ohmios conectado de a a b en la figura 17-69?**
 
@@ -123,6 +158,9 @@ Realizamos el siguiente proceso:
 ![image](https://user-images.githubusercontent.com/93398718/155431052-441126b9-644c-42b8-8414-410aa1902915.png)
 
 
+#### 39. En condición de resonancia, XL=2 kΩ y RW =25 Ω en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.
+
+![image](https://user-images.githubusercontent.com/93561706/156420933-bbf9d260-47b6-48e4-9a4a-23a911a14750.png)
 
 **41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la frecuencia crítica baja?**
 
