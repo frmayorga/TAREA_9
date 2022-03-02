@@ -161,9 +161,6 @@ Realizamos el siguiente proceso:
 ![image](https://user-images.githubusercontent.com/93361435/155641467-f1aff818-2648-42c6-8638-a0d44cb873d9.png)
 
 
-#### 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
-![image](https://user-images.githubusercontent.com/93398718/155431052-441126b9-644c-42b8-8414-410aa1902915.png)
-
 
 #### 39. En condición de resonancia, XL=2 kΩ y RW =25 Ω en un circuito RLC en paralelo. La frecuencia resonante es de 5 kHz. Determine el ancho de banda.
 
