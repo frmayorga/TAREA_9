@@ -204,6 +204,8 @@ Y para los circuitos pasabajas con inductores tenemos:
 
 #### 7. Trace una curva de Bode para cada una de las partes del problema 5
 
+![image](https://user-images.githubusercontent.com/93561706/156425563-7e0128fb-bf9a-4c74-a0d2-cfe6d7b8facc.png)
+
 **9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB:**
 
 ![image](https://user-images.githubusercontent.com/93361435/155606605-cad2e60a-5298-436a-bd97-25ecc2ea84b5.png)
